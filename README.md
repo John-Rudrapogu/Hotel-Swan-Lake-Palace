@@ -44,4 +44,5 @@ Static Web Apps, Visual Studio Code
 
 
 ## Configuring Static Web App Service to deploy a static website.
-![image](https://user-images.githubusercontent.com/100034802/184682383-4397dd30-e82e-4039-8021-07f4bf3b28df.png)
+<img width="1728" alt="Screenshot 2022-08-15 at 10 42 51 PM" src="https://user-images.githubusercontent.com/100034802/184682787-6b623b83-9e89-4cb9-9f2d-a759e4272671.png">
+
