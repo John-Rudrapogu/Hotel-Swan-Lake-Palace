@@ -13,11 +13,11 @@ Hotel Swan Lake Palace
 This is a webpage developed as a part of the FUTURE READY TALENT Internship Project. The webpage is designed to offer customers the convenience of viewing and interacting with a luxury hotel and getting to know its services.
 
 ## Project Description*:
-This webpage is developed using HTML and CSS as a part of the FUTURE READY TALENT Internship Project. In order to deploy the application, Microsoft Azure Services like Static Web Apps are used. The application is created on Visual Studio Code. The goal of building the website is to have a go-to information/ guidebook to the continental and luxury Hotel Swan Lake Palace. Through this website, on the About page, customers can learn about the overall functioning of the hotel and the management team. The Services page, provides customers a glimpse into all the different amenities on offer at the hotel. Using this website customers can get a firsthand look at the kind of rooms that are on offer and decide to choose a suite according to their own liking.
+This webpage is developed using HTML and CSS as a part of the FUTURE READY TALENT Internship Project. In order to deploy the application, Microsoft Azure Services like Static Web Apps are used. The application is created on Visual Studio Code. The goal of building the website is to have a go-to information/ guidebook to the continental and luxury Hotel Swan Lake Palace. Through this website, on the About page, customers can learn about the overall functioning of the hotel and the management team. The Services page, provides customers a glimpse into all the different amenities on offer at the hotel. Using this website customers can get a firsthand look at the kind of rooms that are on offer and decide to choose a suite according to their own liking. 
 
-## Primary Azure Technology*:
+## Primary Azure Technologies*:
 Static Web Apps, Visual Studio Code
------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Homepage
 <img width="1728" alt="Screenshot 2022-08-15 at 10 36 29 PM" src="https://user-images.githubusercontent.com/100034802/184681665-7a3c5f14-c0b8-4987-8e0f-ac0f240b5dcd.png">
