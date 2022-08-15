@@ -24,7 +24,7 @@ This webpage is developed using HTML and CSS as a part of the FUTURE READY TALEN
 
 
 ## About
-<img width="1728" alt="Screenshot 2022-08-15 at 10 37 42 PM" src="https://user-images.githubusercontent.com/100034802/184681836-aa2c299f-d8b4-4062-a2a4-250a740bcbe3.png">
+<img width="1728" alt="Screenshot 2022-08-15 at 11 14 51 PM" src="https://user-images.githubusercontent.com/100034802/184687627-022cad3a-b392-4dc6-8876-c1b091d6029f.png">
 
 
 ## Services
